@@ -16,13 +16,4 @@ public class App
     {
     	return x+y;
     }
-    public int sub(int x,int y)
-    {
-    	return x-y;
-    }
-  
-    public void method1() {
-    	System.out.println(" this is method colledjhalhalh.....");
-    }
-}  
-   
+}
