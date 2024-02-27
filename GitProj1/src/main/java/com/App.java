@@ -17,5 +17,8 @@ public class App
     	return x-y;
     }
   
+    public void method1() {
+    	System.out.println(" this is method colled.....");
+    }
 }  
    
