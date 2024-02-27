@@ -13,7 +13,5 @@ public class App
     	return x+y;
     }
     
-    public void ms() {
-    System.out.println("thid is ms");
-    }
+   
 }
