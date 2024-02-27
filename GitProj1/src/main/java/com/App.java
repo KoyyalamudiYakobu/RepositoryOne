@@ -22,7 +22,7 @@ public class App
     }
   
     public void method1() {
-    	System.out.println(" this is method colled.....");
+    	System.out.println(" this is method colledjhalhalh.....");
     }
 }  
    
