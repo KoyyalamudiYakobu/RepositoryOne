@@ -10,7 +10,7 @@ public class Payment
 	
 	public void upiPayment()
 	{
-		System.out.println(" this upiPayment() method colled");
+		System.out.println(" this is upiPayment() method colled");
 	}
 	
 	
