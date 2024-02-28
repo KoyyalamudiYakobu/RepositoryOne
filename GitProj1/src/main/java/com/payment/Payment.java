@@ -1,18 +1,6 @@
 package com.payment;
 
 public class Payment
-{
+{//this is payment class
 
-	public void creditcardPayment() {
-		System.out.println(" this is creditcardpayment() method");
-		
-	}
-	
-	public void upiPayment()
-	{
-		System.out.println(" this is upiPayment() method colled");
-	}
-	
-	
-	
 }
