@@ -12,7 +12,7 @@ public class Payment
 	}
 	
 	public void method2() {
-		System.out.println("this is method Two ");//this is to musch
+		System.out.println("this is method Two ");
 		
 	}
 
