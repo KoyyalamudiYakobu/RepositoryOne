@@ -6,7 +6,14 @@ public class Payment
 	
 	public void method() {
 		
-		System.out.println("this is methos one only");
+		// this is my first project
+		
+		System.out.println("this is method one only");
+	}
+	
+	public void method2() {
+		System.out.println("this is method Two ");
+		
 	}
 
 }
