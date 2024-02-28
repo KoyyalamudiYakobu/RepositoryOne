@@ -14,7 +14,7 @@ public class App
     }
     public int  sum(int x,int y) 
     {
-    	return x+y;//767855
+    	return x+y;
     }
     
     
